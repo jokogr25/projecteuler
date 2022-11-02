@@ -1,3 +1,5 @@
+module Problem1.Problem1 where
+
 sumOfMultipleOfThreeOrFive :: Integer -> Integer
 sumOfMultipleOfThreeOrFive n = sumOfMultipleOfThreeOrFive' 0 0
   where
